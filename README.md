@@ -1,2 +1,1 @@
-# eventbrite_KIN
-Projet semaine 6
+# eventbrite_menja
